@@ -43,6 +43,24 @@ npm run dev
 ```
 
 ---
+## 🧩 Project Structure
+
+portfolio/
+├── app/                  # App Router pages (Next.js 13+)
+│   ├── page.js           # Home page
+│   ├── projects/         # Projects section
+│   ├── contact/          # Contact page
+│   ├── api/              # Serverless API routes
+│   │   └── contact/route.js   # Backend logic for contact form
+│   └── layout.js         # Main layout component
+│
+├── components/           # Reusable React components
+├── public/               # Images, icons, and assets
+├── styles/               # Global and module CSS
+├── utils/                # Helper functions / config files
+├── package.json
+└── README.md
+
 
 ## 📦 Deployment
 
