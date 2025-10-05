@@ -45,7 +45,7 @@ npm run dev
 ---
 ## 🧩 Project Structure
 
-'''
+```
 portfolio/
 ├── app/                  # App Router pages (Next.js 13+)
 │   ├── page.js           # Home page
@@ -61,7 +61,7 @@ portfolio/
 ├── utils/                # Helper functions / config files
 ├── package.json
 └── README.md
-'''
+```
 
 ## 📦 Deployment
 
