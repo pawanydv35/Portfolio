@@ -1,64 +1,73 @@
-🌐 Pawan's Portfolio 
+# 🚀 Pawan's Portfolio
 
-Welcome to my personal portfolio website, built with Next.js.
-This project is designed to showcase my skills, projects, and achievements as a developer — all in a modern, responsive, and full-stack web app.
+Welcome to my personal portfolio website! This is a responsive, modern, and minimal web portfolio built using **React** and **Tailwind CSS**. It highlights my skills, showcases my projects, and provides a way for people to reach out or download my resume.
 
-🚀 Tech Stack
+## 🧠 About Me
 
-Framework:
+I'm **Pawan Yadav**, a passionate AI/ML enthusiast with a deep interest in modern web development. This portfolio serves as my digital presence and reflects my journey, knowledge, and creative work.
 
-Next.js 14+
-React framework for full-stack web apps
+## 🌐 Live Demo
 
-Frontend:
+🔗 [View My Portfolio](https:pawanydv35.github.io)
 
-React Components
-Tailwind CSS for styling
-Framer Motion for animations
+---
 
-Backend / Server:
+## 📂 Features
 
-Next.js API Routes (serverless backend)
-Node.js & Express-like API logic
+- 🔥 Stylish Hero Section with animated gradient
+- 🛠️ Skills section with tech categories
+- 📁 Projects showcase with description
+- 📬 Contact form integrated with Web3Forms
+- 🧾 Resume download support
+- 🌙 Dark mode toggle
+- 💻 Fully responsive layout for all devices
 
-Database & Storage (optional):
+---
 
-MongoDB / PostgreSQL / Firebase
-Prisma / Mongoose ORM
+## 🛠️ Tech Stack
 
-Other Tools:
+- React
+- Tailwind CSS
+- Web3Forms (Contact API)
+- Font Awesome (Social icons)
 
-TypeScript (optional but recommended)
-Git & GitHub for version control
-Vercel for deployment
+---
 
-📸 Features
-
-✅ Fully responsive, modern UI
-✅ Built entirely with Next.js (frontend + backend)
-✅ Dynamic projects and skills sections
-✅ Contact form powered by Next.js API Routes
-✅ SEO optimized with custom <Head> metadata
-✅ Smooth animations using Framer Motion
-✅ Easy to customize and expand
-
-
-
-## Getting Started
-
-First, run the development server:
+## 📥 Installation
 
 ```bash
+git clone https://github.com/pawanydv35/portfolio.git
+cd portfolio
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 📦 Deployment
 
+This project can be deployed on any static hosting service like **GitHub Pages**, **Vercel**, or **Netlify**.
+
+To deploy on GitHub Pages:
+
+1. Run `npm run build`
+2. Push the contents of the `build/` folder to your `gh-pages` branch
+3. Enable GitHub Pages in the repository settings
+
+---
+
+## 📧 Contact
+
+If you'd like to connect, collaborate, or just say hello:
+
+* ✉️ Email: [pawanydv3010@gmail.com](mailto:pawanydv3010@gmail.com)
+* 💼 LinkedIn: [linkedin.com/in/pawan-yadav17/](https://www.linkedin.com/in/pawan-yadav17/)
+* 🐙 GitHub: [github.com/pawanydv35](https://github.com/pawanydv35)
+
+---
+
+## 📝 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+```
